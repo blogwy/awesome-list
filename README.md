@@ -18,6 +18,14 @@
 
 * [智图图片压缩](https://zhitu.isux.us/)
 
+* [图片瀑布流插件](https://isotope.metafizzy.co/)
+
+* [30秒css](https://30-seconds.github.io/30-seconds-of-css/)
+
+* [JSON格式化](http://www.bejson.com/)
+
+* [吾爱破解论坛](https://www.52pojie.cn/)
+
 ### Document
 
 * [Vue.js](https://cn.vuejs.org/)
@@ -28,6 +36,12 @@
 
 * [微信小程序开发文档](https://developers.weixin.qq.com/miniprogram/dev/api/)
 
+* [Flutter官方文档](https://flutter.dev/docs)
+
+* [Flutter实战](https://book.flutterchina.club/)
+
+* [jquery文档](http://jquery.cuishifeng.cn/)
+
 ### Resource/Demo
 
 * [JQuery插件库1](http://www.jq22.com/)
@@ -37,6 +51,23 @@
 * [iconfont](https://www.iconfont.cn/)
 
 * [freebiesbug](https://freebiesbug.com/)
+
+* [Mock数据](https://www.easy-mock.com/login)
+
+### skill
+
+* [JS奇淫巧技：防抖函数与节流函数](https://www.cnblogs.com/chenqf/p/7986725.html)
+
+* [Cordova 常用命令及插件](https://www.cnblogs.com/lianjq/p/6496916.html)
+
+* [cordova-plugin-whitelist 协议白名单配置整理](https://blog.csdn.net/u011127019/article/details/56009248)
+
+* [vue 实战各种小技巧](https://www.jianshu.com/p/e555bc60b96b)
+
+* [微信小程序动画中如何将rpx转化px](https://www.jianshu.com/p/256f8ba0a7aa)
+
+* [微信公众平台接口调试工具](https://mp.weixin.qq.com/debug/)
+
 
 ## Entertainment
 
@@ -55,6 +86,8 @@
 * [steam](https://store.steampowered.com/)
 
 * [3dm](https://www.3dmgame.com/)
+
+* [IGGGAMES](https://igg-games.com/)
 
 ## Tools
 
