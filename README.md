@@ -54,6 +54,8 @@
 
 * [Mock数据](https://www.easy-mock.com/login)
 
+* [manypixels](https://gallery.manypixels.co/) - 免费插画无版权
+
 ### skill
 
 * [JS奇淫巧技：防抖函数与节流函数](https://www.cnblogs.com/chenqf/p/7986725.html)
@@ -102,6 +104,10 @@
 * [IDM](http://www.internetdownloadmanager.com/)
 
 * [磁力资源搜索助手]()
+
+* [cloudconvert](https://cloudconvert.com/) - 在线格式转换
+
+* [ilovepdf](https://www.ilovepdf.com/) - 在线PDF文件转换
 
 ## Chrome Extensions
 
