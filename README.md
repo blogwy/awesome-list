@@ -103,7 +103,7 @@
 
 * [IDM](http://www.internetdownloadmanager.com/)
 
-* [磁力资源搜索助手](链接: https://pan.baidu.com/s/1NdVCHgeYZLyLZMcScYlhRw) - 提取码: 2xs2
+* [磁力资源搜索助手](https://pan.baidu.com/s/1NdVCHgeYZLyLZMcScYlhRw) - 提取码: 2xs2
 
 * [cloudconvert](https://cloudconvert.com/) - 在线格式转换
 
