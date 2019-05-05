@@ -6,17 +6,17 @@
 
 ### blog/website
 
-* [廖雪峰个人博客](https://www.liaoxuefeng.com/)
+* [廖雪峰个人博客](https://www.liaoxuefeng.com/) - 技术大牛博客
 
-* [阮一峰的网络日志](http://www.ruanyifeng.com/blog/)
+* [阮一峰的网络日志](http://www.ruanyifeng.com/blog/) - 技术大佬博客
 
 * [为前端工程师准备的 Flutter 入门指南](https://hijiangtao.github.io/2019/01/20/Flutter-for-Web-Devs/)
 
-* [AlloyDesigner](http://alloyteam.github.io/AlloyDesigner/)
+* [AlloyDesigner](http://alloyteam.github.io/AlloyDesigner/) - 把UI给的设计图直接嵌入到页面进行开发
 
 * [代码在线运行](https://tool.lu/coderunner/)
 
-* [智图图片压缩](https://zhitu.isux.us/)
+* [智图图片压缩](https://zhitu.isux.us/) - 有webp格式
 
 * [图片瀑布流插件](https://isotope.metafizzy.co/)
 
@@ -24,7 +24,7 @@
 
 * [JSON格式化](http://www.bejson.com/)
 
-* [吾爱破解论坛](https://www.52pojie.cn/)
+* [吾爱破解论坛](https://www.52pojie.cn/) - 国内最大的软件安全与病毒分析论坛
 
 ### Document
 
@@ -32,7 +32,7 @@
 
 * [MDN](https://developer.mozilla.org/zh-CN/)
 
-* [ES6入门](http://es6.ruanyifeng.com/)
+* [ES6入门](http://es6.ruanyifeng.com/) - 阮大神的ES6入门(不只是ES6，还有ES7/8)
 
 * [微信小程序开发文档](https://developers.weixin.qq.com/miniprogram/dev/api/)
 
@@ -50,7 +50,7 @@
 
 * [iconfont](https://www.iconfont.cn/)
 
-* [freebiesbug](https://freebiesbug.com/)
+* [freebiesbug](https://freebiesbug.com/) - 免费的设计资源
 
 * [Mock数据](https://www.easy-mock.com/login)
 
@@ -93,17 +93,17 @@
 
 ## Tools
 
-* [pandownload](http://pandownload.com/)
+* [pandownload](http://pandownload.com/) - 最火的第三方不限速百度云客户端(下载的东西过多会被百度官方限速)
 
-* [速盘](http://www.speedpan.com/)
+* [速盘](http://www.speedpan.com/) - 免费版和上面的类似，收费版超赞，不贵3元/50GB
 
-* [Motrix](https://motrix.app/) - 有Mac版
+* [Motrix](https://motrix.app/) - 可以下载百度云 FTP HTTP 种子 磁力，有Win/Linux/Mac版
 
-* [极速迅雷]()
+* [迅雷全版本](https://www.52pojie.cn/thread-944208-1-1.html)
 
 * [IDM](http://www.internetdownloadmanager.com/)
 
-* [磁力资源搜索助手]()
+* [磁力资源搜索助手](链接: https://pan.baidu.com/s/1NdVCHgeYZLyLZMcScYlhRw) - 提取码: 2xs2
 
 * [cloudconvert](https://cloudconvert.com/) - 在线格式转换
 
@@ -111,16 +111,16 @@
 
 ## Chrome Extensions
 
-* [JSON Formatter](https://chrome.google.com/webstore/detail/json-formatter/bcjindcccaagfpapjjmafapmmgkkhgoa?utm_source=chrome-ntp-icon)
+* [JSON Formatter](https://chrome.google.com/webstore/detail/json-formatter/bcjindcccaagfpapjjmafapmmgkkhgoa?utm_source=chrome-ntp-icon) - JSON格式化
 
-* [Set Character Encoding](https://chrome.google.com/webstore/detail/set-character-encoding/bpojelgakakmcfmjfilgdlmhefphglae?utm_source=chrome-ntp-icon)
+* [Set Character Encoding](https://chrome.google.com/webstore/detail/set-character-encoding/bpojelgakakmcfmjfilgdlmhefphglae?utm_source=chrome-ntp-icon) - 设置网页编码
 
-* [Tampermonkey](https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo?utm_source=chrome-ntp-icon)
+* [Tampermonkey](https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo?utm_source=chrome-ntp-icon) - 游猴
 
-* [Wappalyzer](https://chrome.google.com/webstore/detail/wappalyzer/gppongmhjkpfnbhagpmjfkannfbllamg?utm_source=chrome-ntp-icon)
+* [Wappalyzer](https://chrome.google.com/webstore/detail/wappalyzer/gppongmhjkpfnbhagpmjfkannfbllamg?utm_source=chrome-ntp-icon) - 查看网站技术栈
 
 * [划词翻译](https://chrome.google.com/webstore/detail/%E5%88%92%E8%AF%8D%E7%BF%BB%E8%AF%91/ikhdkkncnoglghljlkmcimlnlhkeamad?utm_source=chrome-ntp-icon)
 
 * [捕捉网页截图](https://chrome.google.com/webstore/detail/take-webpage-screenshots/mcbpblocgmgfnpjjppndjkmgjaogfceg?utm_source=chrome-ntp-icon)
 
-* [Vue.js devtools](https://chrome.google.com/webstore/detail/vuejs-devtools/nhdogjmejiglipccpnnnanhbledajbpd?utm_source=chrome-ntp-icon)
+* [Vue.js devtools](https://chrome.google.com/webstore/detail/vuejs-devtools/nhdogjmejiglipccpnnnanhbledajbpd?utm_source=chrome-ntp-icon) - Vue开发工具
