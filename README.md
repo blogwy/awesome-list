@@ -95,6 +95,8 @@
 
 * [pandownload](http://pandownload.com/) - 最火的第三方不限速百度云客户端(下载的东西过多会被百度官方限速)
 
+* [pandownload网页版](https://www.baiduwp.com)
+
 * [速盘](http://www.speedpan.com/) - 免费版和上面的类似，收费版超赞，不贵3元/50GB
 
 * [Motrix](https://motrix.app/) - 可以下载百度云 FTP HTTP 种子 磁力，有Win/Linux/Mac版
@@ -108,6 +110,16 @@
 * [cloudconvert](https://cloudconvert.com/) - 在线格式转换
 
 * [ilovepdf](https://www.ilovepdf.com/) - 在线PDF文件转换
+
+* [在线生成拟人化头像](https://getavataaars.com)
+
+* [龙轩导航](http://ilxdh.com/) - 好用的导航网站
+
+* [在线代码运行工具](https://tool.lu/coderunner/)
+
+* [musicman](https://github.com/mzz2017/musicman) - 免费音乐下载web版
+
+* [会声会影2018](https://github.com/CrackGroup/Corel-VideoStudio) - 会声会影2018破解版简中
 
 ## Chrome Extensions
 
