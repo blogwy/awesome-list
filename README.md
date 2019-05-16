@@ -70,6 +70,41 @@
 
 * [微信公众平台接口调试工具](https://mp.weixin.qq.com/debug/)
 
+### library/repositories
+
+* [ZSAIm/iqiyi-parser](https://github.com/ZSAIm/iqiyi-parser) - 解析下载爱奇艺、哔哩哔哩、腾讯视频
+
+* [jayZOU/skeleton](https://github.com/jayZOU/skeleton) - 绘制小程序骨架屏
+
+* [cnlh/nps](https://github.com/cnlh/nps) - 一款轻量级、功能强大的内网穿透代理服务器。
+
+* [benhowdle89/grade](https://github.com/benhowdle89/grade) - 这个库可以获取图像的2种主色并生成互补渐变的背景。类似于豆瓣APP中电影详情页的背景色。
+
+* [ngosang/trackerslist](https://github.com/ngosang/trackerslist) - 公共的BT服务器trackers列表
+
+* [jackfrued/Python-100-Days](https://github.com/jackfrued/Python-100-Days) - Python - 100天从新手到大师
+
+* [azl397985856/leetcode](https://github.com/azl397985856/leetcode) - 用js解leetcode题目
+
+* [deepfakes/faceswap](https://github.com/deepfakes/faceswap) - 大名鼎鼎的AI换脸技术
+
+* [shimohq/chinese-programmer-wrong-pronunciation](https://github.com/shimohq/chinese-programmer-wrong-pronunciation) - 中国程序员容易发音错误的单词
+
+* [Advanced-Frontend/Daily-Interview-Question](https://github.com/Advanced-Frontend/Daily-Interview-Question) - 每天一道大厂前端面试题
+
+* [CriseLYJ/awesome-python-login-model](https://github.com/CriseLYJ/awesome-python-login-model) - Python模拟登录案例
+
+* [serratus/quaggaJS](https://github.com/serratus/quaggaJS) - JS识别条形码库
+
+* [gruhn/vue-qrcode-reader](https://github.com/gruhn/vue-qrcode-reader) - Vue识别二维码库
+
+* [184455/vue-team-develop-document](https://github.com/184455/vue-team-develop-document) - Vue 移动端团队协作开发规范文档
+
+* [zhaoolee/ChromeAppHeroes](https://github.com/zhaoolee/ChromeAppHeroes) - chrome插件推荐
+
+* [前端规范文档](https://guide.aotu.io/)
+
+* [doramart/DoraCMS](https://github.com/doramart/DoraCMS) - DoraCMS是基于Nodejs+express+mongodb编写的一套内容管理系统，结构简单，较目前一些开源的cms，doracms易于拓展，特别适合前端开发工程师做二次开发。
 
 ## Entertainment
 
@@ -120,6 +155,10 @@
 * [musicman](https://github.com/mzz2017/musicman) - 免费音乐下载web版
 
 * [会声会影2018](https://github.com/CrackGroup/Corel-VideoStudio) - 会声会影2018破解版简中
+
+* [Pock](https://github.com/pigigaldi/Pock) - MBP的Touch Bar显示Dock栏
+
+* [Aerial](https://github.com/JohnCoates/Aerial) - MAC OS动态屏保(超好看)
 
 ## Chrome Extensions
 
