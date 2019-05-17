@@ -106,6 +106,62 @@
 
 * [doramart/DoraCMS](https://github.com/doramart/DoraCMS) - DoraCMS是基于Nodejs+express+mongodb编写的一套内容管理系统，结构简单，较目前一些开源的cms，doracms易于拓展，特别适合前端开发工程师做二次开发。
 
+* [kujian/30-seconds-of-css](https://github.com/kujian/30-seconds-of-css) - 30秒CSS中文版 您可以在30秒或更短的时间内了解的有用的CSS代码片段。
+
+* [flutterchina/flutter-in-action](https://github.com/flutterchina/flutter-in-action) - 《Flutter实战》电子书
+
+* [stephentian/33-js-concepts](https://github.com/stephentian/33-js-concepts) - 每个 JavaScript 工程师都应懂的33个概念
+
+* [lemonce/svg-captcha](https://github.com/lemonce/svg-captcha) - node生成svg验证码
+
+* [leizongmin/js-xss](https://github.com/leizongmin/js-xss) - 根据白名单过滤 HTML(防止 XSS 攻击)
+
+* [dt-fe/weekly](https://github.com/dt-fe/weekly) - 前端精读周刊
+
+* [521xueweihan/HelloGitHub](https://github.com/521xueweihan/HelloGitHub) - 一个分享 GitHub 上有趣、入门级的开源项目。
+
+* [AweiLoveAndroid/The-pit-of-the-Android-Studio](https://github.com/AweiLoveAndroid/The-pit-of-the-Android-Studio) - 老卢全面总结Android Studio的填坑指南
+
+* [xtyxtyx/sorry](https://github.com/xtyxtyx/sorry) - 在线制作sorry 为所欲为的gif
+
+* [qwerty472123/wxappUnpacker](https://github.com/qwerty472123/wxappUnpacker) - Wechat App(微信小程序,.wxapkg)解包及相关文件(.wxss,.json,.wxs,.wxml)还原工具
+
+* [justadudewhohacks/face-api.js](https://github.com/justadudewhohacks/face-api.js) - node版面部识别基于tensorflow.js
+
+* [weilanwl/ColorUI](https://github.com/weilanwl/ColorUI) - 鲜亮的高饱和色彩，专注视觉的小程序组件库
+
+* [unmagic/wechat-im](https://github.com/unmagic/wechat-im) - 微信小程序即时通讯模板，使用WebSocket通信
+
+* [ecomfe/echarts-for-weixin](https://github.com/ecomfe/echarts-for-weixin) - ECharts 的微信小程序版本
+
+* [xiaolin3303/wx-charts](https://github.com/xiaolin3303/wx-charts) - 微信小程序图表库
+
+* [csbun/thal](https://github.com/csbun/thal) - 译文：Puppeteer 与 Chrome Headless —— 从入门到爬虫
+
+* [chenshenhai/koa2-note](https://github.com/chenshenhai/koa2-note) - Koa2进阶学习笔记已完结
+
+* [cloudreve/Cloudreve](https://github.com/cloudreve/Cloudreve) - 支持多家云存储的云盘系统
+
+* [EastWorld/wechat-app-mall](https://github.com/EastWorld/wechat-app-mall) - 微信小程序商城，微信小程序微店
+
+* [tumobi/nideshop-mini-program](https://github.com/tumobi/nideshop-mini-program) - NideShop：基于Node.js+MySQL开发的开源微信小程序商城（微信小程序）
+
+* [justjavac/awesome-wechat-weapp](https://github.com/justjavac/awesome-wechat-weapp) - 微信小程序开发资源汇总
+
+* [youzan/vant-weapp](https://github.com/youzan/vant-weapp) - 轻量、可靠的小程序 UI 组件库 
+
+* [auth0/node-jsonwebtoken](https://github.com/auth0/node-jsonwebtoken) - JsonWebToken implementation for node.js
+
+* [ElemeFE/v-charts](https://github.com/ElemeFE/v-charts) - 基于 Vue2.0 和 ECharts 封装的图表组件
+
+* [demopark/sequelize-docs-Zh-CN](https://github.com/demopark/sequelize-docs-Zh-CN) - Sequelize 文档的中文版本
+
+* [zce/douban-api-proxy](https://github.com/zce/douban-api-proxy) - 一个豆瓣 API 的反向代理配置，旨在解决豆瓣屏蔽小程序请求问题
+
+* [zce/douban-api-docs](https://github.com/zce/douban-api-docs) - 豆瓣 API 文档
+
+* [1c7/chinese-independent-developer](https://github.com/1c7/chinese-independent-developer) - 中国独立开发者项目列表 -- 分享大家都在做什么
+
 ## Entertainment
 
 ### Video
