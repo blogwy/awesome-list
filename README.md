@@ -26,6 +26,10 @@
 
 * [吾爱破解论坛](https://www.52pojie.cn/) - 国内最大的软件安全与病毒分析论坛
 
+* [变量命名神器](https://unbug.github.io/codelf/)
+
+* [程序员导航](http://geekdocs.cn/)
+
 ### Document
 
 * [Vue.js](https://cn.vuejs.org/)
