@@ -30,6 +30,20 @@
 
 * [程序员导航](http://geekdocs.cn/)
 
+* [图片隐写加密解密](https://c.p2hp.com/yinxietu/)
+
+* [零宽字符加密](https://github.com/rover95/morse-encrypt)
+
+* [10分钟学会前端工程化](https://www.cnblogs.com/best/p/10083024.html)
+
+* [婚礼大屏互动，微信请柬一站式解决方案](https://github.com/iammapping/wedding)
+
+* [大屏数据可视化模版](https://yyhsong.github.io/iDataV/)
+
+* [FeHelper--Web前端助手](https://chrome.google.com/webstore/detail/pkgccpejnmalmdinmhkkfafefagiiiad?hl=zh-cn)
+
+* [开源在线画流程图](www.draw.io)
+
 ### Document
 
 * [Vue.js](https://cn.vuejs.org/)
