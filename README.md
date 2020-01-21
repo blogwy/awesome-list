@@ -249,3 +249,15 @@
 * [捕捉网页截图](https://chrome.google.com/webstore/detail/take-webpage-screenshots/mcbpblocgmgfnpjjppndjkmgjaogfceg?utm_source=chrome-ntp-icon)
 
 * [Vue.js devtools](https://chrome.google.com/webstore/detail/vuejs-devtools/nhdogjmejiglipccpnnnanhbledajbpd?utm_source=chrome-ntp-icon) - Vue开发工具
+
+**下面内容来自阮一峰老师**
+
+## 实用信息
+
+### [免费软件](https://github.com/ruanyf/weekly/blob/master/docs/free-software.md)
+
+### [免费电子书](https://github.com/ruanyf/free-books)
+
+### [免费音乐](https://github.com/ruanyf/weekly/blob/master/docs/free-music.md)
+
+### [免费照片](https://github.com/ruanyf/weekly/blob/master/docs/free-photos.md)
