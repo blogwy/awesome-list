@@ -254,10 +254,10 @@
 
 ## 实用信息
 
-### [免费软件](https://github.com/ruanyf/weekly/blob/master/docs/free-software.md)
+* [免费软件](https://github.com/ruanyf/weekly/blob/master/docs/free-software.md)
 
-### [免费电子书](https://github.com/ruanyf/free-books)
+* [免费电子书](https://github.com/ruanyf/free-books)
 
-### [免费音乐](https://github.com/ruanyf/weekly/blob/master/docs/free-music.md)
+* [免费音乐](https://github.com/ruanyf/weekly/blob/master/docs/free-music.md)
 
-### [免费照片](https://github.com/ruanyf/weekly/blob/master/docs/free-photos.md)
+* [免费照片](https://github.com/ruanyf/weekly/blob/master/docs/free-photos.md)
